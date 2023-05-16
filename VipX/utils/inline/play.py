@@ -210,8 +210,41 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
 
         buttons  = [
 
+        
         [
+
             InlineKeyboardButton(
+
+                text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭❤",
+
+                url="https://t.me/apne_duniya",
+
+            ),
+
+          
+
+          
+            InlineKeyboardButton(
+
+                text="𝐒𝐞𝐫𝐯𝐞𝐫🚀",
+
+                url="https://t.me/salaar_server",
+
+            ),
+
+           ],
+
+           [
+
+            InlineKeyboardButton(
+
+                text="𝐎𝐰𝐧𝐞𝐫🏓", url="https://t.me/Salaar_op"
+
+            ),
+
+           ],
+           [
+               InlineKeyboardButton(
 
                 text=_["S_B_5"],
 
